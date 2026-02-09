@@ -1,5 +1,4 @@
 # Apache Flink + IoTDB 2.0 (Table Model) Connector
-### GSoC 2026 Proof of Concept (PoC)
 
 ![Java](https://img.shields.io/badge/Java-11%2B-orange) ![Flink](https://img.shields.io/badge/Apache%20Flink-1.18-blue) ![IoTDB](https://img.shields.io/badge/Apache%20IoTDB-2.0-red)
 

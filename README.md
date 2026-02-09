@@ -34,7 +34,7 @@ This PoC implements a custom Flink `SourceFunction` that utilizes the **`TableSe
 ### Prerequisites
 * **Apache IoTDB 2.0+**
 * **Apache Flink 1.18** libraries
-* **Java 8 or 11**
+* **Java 8 or 11+**
 
 ### Step 1: Start IoTDB Server (Windows)
 
@@ -65,7 +65,7 @@ This PoC implements a custom Flink `SourceFunction` that utilizes the **`TableSe
 1.  Open **IntelliJ IDEA**.
 2.  Click **New Project**.
 3.  Select **Maven** (on the left) and click **Create**.
-4.  Name the project: `IoTDB_GSoC_Test`.
+4.  Name the project: `IoTDB_Table_Test`.
 5.  **Add Libraries (pom.xml):**
     Open `pom.xml` and add the following dependencies inside the `<dependencies>` section:
 
